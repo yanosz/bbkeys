@@ -1,6 +1,7 @@
 Subnet=172.27.255.9/32
-Subnet=172.27.0.0/16
-Subnet=172.27.8.0/21
+#Subnet=172.27.0.0/16 # Not to be used - packet loss
+
+#Subnet=172.27.8.0/21 # Not to be used - packet loss
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAwxKV1I1kcwP0pbpKIPXbv87KM9vyoiavUs/2aKCzO4GrC4R1D93+
