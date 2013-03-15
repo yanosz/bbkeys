@@ -1,4 +1,4 @@
 bbkeys
 ======
 
-tinc-keys for backbone vpn
+This repository contains all keys used in ff-kbu's backbone vpn
