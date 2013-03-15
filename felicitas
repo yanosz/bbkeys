@@ -1,3 +1,8 @@
+Subnet=172.27.255.4/32
+Subnet=195.54.164.203/32
+Compression=9
+Address=felicitas.kbu.freifunk.net
+
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA1kB3a9C1+b+ZwAs8JbPkXRBYOmXWvldgwV7sXa9tnIzGn9HgIPxD
 WyXwmrj+yomAkgEu+ziWrFZkvZtF7M61k42xlusBrMgTmUmIPSoBZRJhFFpugD0F

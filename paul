@@ -1,3 +1,5 @@
+Subnet=172.27.255.3/32 #Paul selbst
+Subnet=0.0.0.0/0
 Compression=9
 Address=paul.kbu.freifunk.net
 

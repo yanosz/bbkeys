@@ -1,3 +1,10 @@
+Subnet=172.27.255.5/32
+Subnet=195.54.164.204/32
+Subnet=172.27.0.0/21
+Subnet=172.27.0.0/15
+Address=kif.kbu.freifunk.net
+
+
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAr2gULqcqmqH/Tt/dpldI+Su4FHlgSX+uDnI72q1sje905hGGVK9p
 6wj4ZJJLCSbgrAFfPLaaOwoWUxXEZA8O+6QvSU1BnBo1lkGgvcrSlytecHoLu00V
