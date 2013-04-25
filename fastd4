@@ -1,5 +1,7 @@
 Subnet=172.27.255.10/32
 Subnet=172.27.16.0/21
+Subnet=2001:67c:20a0:b105::/64
+Subnet=fdd3:5d16:b5dd:3::10/128
 Compression=9
 Address=fastd4.kbu.freifunk.net
 
