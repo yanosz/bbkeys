@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 Subnet=172.27.56.0/21
 Subnet=172.27.255.11/32
 Subnet=2001:67c:20a0:b103::/64
 Subnet=fdd3:5d16:b5dd:3::11/128
 
 Address=lucifer.jluehr.de
-=======
-Subnet=172.27.56.1/21
-Subnet=172.27.255.11/32
->>>>>>> b947353f76270f92802ea8459c78ecf9b5c6fd7e
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA8EU2I457fDJkdhhC/iVZ0PWwccc4w3rQ746xFReFMLBHjIAqgk1E
