@@ -1,3 +1,5 @@
+Subnet=172.27.255.12/32
+Subnet=172.27.0.0/21
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAzhvJHvhnqPIpAkXDzypN2l0nhcoAuijUdUzaF9UaU+bzk85Xtjpp
