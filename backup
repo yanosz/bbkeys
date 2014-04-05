@@ -1,7 +1,6 @@
+Subnet=fdd3:5d16:b5dd:3::8/128
 Subnet=172.27.255.8/32
-Address=backup.kbu.freifunk.net
-Compression=9
-
+Compression=11
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAykFSGNAXqwmc9VCqHn/QbsC/kfE7vs+crPK/UoapVH/IWHpGXITc
 /f0zXh3+0JCyWNE/DzzE6h6ayEmWZ4pKAQxle6TfZa1fkDwU5snxImyUMsM6FrtN
