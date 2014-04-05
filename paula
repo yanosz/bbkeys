@@ -1,7 +1,6 @@
-Compression=9
+Compression=11
 Address=paula.kbu.freifunk.net
 Subnet=172.27.255.1/32 #Paula
-Subnet=172.27.255.2/32 #www
 
 
 -----BEGIN RSA PUBLIC KEY-----
