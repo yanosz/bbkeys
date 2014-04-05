@@ -1,9 +1,9 @@
 Subnet=172.27.56.0/21
 Subnet=172.27.255.22/32
-Subnet=2001:67c:20a0:b103::/64
+Subnet=2001:67c:20a0:b102::/64
 Subnet=fdd3:5d16:b5dd:3::22/128
 Compression=11
-Address=lucifer.jluehr.de
+Address=fastd2.kbu.freifunk.net
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA8EU2I457fDJkdhhC/iVZ0PWwccc4w3rQ746xFReFMLBHjIAqgk1E
