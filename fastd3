@@ -1,7 +1,8 @@
-Subnet=172.27.255.9/32
+Subnet=172.27.255.23/32
 Subnet=172.27.8.0/21
-Subnet=fdd3:5d16:b5dd:3::9/128
+Subnet=fdd3:5d16:b5dd:3::23/128
 Subnet=2001:67c:20a0:b104::/64
+Compression=11
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAwxKV1I1kcwP0pbpKIPXbv87KM9vyoiavUs/2aKCzO4GrC4R1D93+
