@@ -1,6 +1,6 @@
 Subnet=fdd3:5d16:b5dd:3::13/128
 Subnet=172.27.255.13/32
-Subnet=fdd3:5d16:b5dd:3::6/128
+#Subnet=fdd3:5d16:b5dd:3::6/128
 Compression=11
 
 -----BEGIN RSA PUBLIC KEY-----
