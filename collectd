@@ -1,6 +1,6 @@
 Subnet=172.27.255.6
 Subnet=2001:470:780f:1::6/128
-#Subnet=fdd3:5d16:b5dd:3::6/128
+Subnet=fdd3:5d16:b5dd:3::6/128
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA4ucPczCFsFBLgk/sQ2LgmOXLJWMLW0X5tzI5+tj/NN0x27RwJ+04
