@@ -1,0 +1,14 @@
+Subnet=172.27.255.30/32
+Subnet=172.27.72.0/21
+Subnet=2001:67c:20a0:b110::/64
+Subnet=fdd3:5d16:b5dd:3::30/128
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAm31lG95hQVkvB0EX7HsIrbaYNxat4XRkJtoVlLPJoNaZnXmb5bSF
+BxJWl6Vq+mUdJ13AqrdQdl+niiZCI6/zQVjzz8lToX5t62XyDSLGFwGcI9BlQZiS
+VIclHOwUz7IasL9eezXutu4pn+k7FcAwfwB2iqGqxa2Cuz28oPZfv+hpweiocLP1
+pp5aXA6fwBhmlXJ9dbdPJ/pftZxSgsipf+4tWu+JsaAXqWhjfQK4/Mo8LDJlMYHz
+08FF9+a7olWLyeGfn4ha2et0HfDT7yVuZ6LRD+SJl0CEh2xVuozNJz1ZDz1eZnRs
+z1fhez+xgm4iN6fSckReinhp5qDkAsJahwIDAQAB
+-----END RSA PUBLIC KEY-----
+
