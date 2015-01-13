@@ -1,5 +1,7 @@
 Subnet=172.27.255.3/32 #Paul selbst
+Subnet=10.158.255.3/32 #
 Subnet=fdd3:5d16:b5dd:3::3/128
+Subnet=fdd3:5d16:b5dd:4::3/128
 Subnet=0.0.0.0/0
 Subnet=::/0
 Compression=11
