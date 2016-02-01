@@ -1,0 +1,14 @@
+# ICVPN1 - Testweise. Host-ID ist 4n fuer ICVPN-GWs, wobei n=1 ist
+# Das Setup ist IPv6 only - die ICVPN Leute haben zu wenig IPv4-Adressen fuer Dinge
+Address=icvpn1.kbu.freifunk.net
+Subnet=fc00::/7 
+Subnet=fdd3:5d16:b5dd:3::41/128 
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAz0gJeNv+jyqzUGPwsYEEwO+t25aazHb8zkzIZfXWLa07j1o3lTj3
+u6/xYac8JX5afb5k8E82QPrQBRY5AVYDIJwwVfv4RhJ7cjFtt7dYuPnwZLypoFQI
+FslKc525QjbOwjxEsrcoNvUW9Ix9Lcd1e6JH3ANES9Tu1TKS+kZnkG5ZjVI0+XHk
+IK2DcmspN0GS2rkBvfXaZ4GwYI5sGAAN3pFzOLlCq8D47r4ruAbLowZGUCSzvmc/
+AmPnHZpVYPyKNeLixNowjzVDO6JYYb4RoCCd1ZLekiglm2jOlG9Xpa7uByg9wFGP
+pJumfczM69VnUcBJmM3JUMk+XQTAnUU23QIDAQAB
+-----END RSA PUBLIC KEY-----
